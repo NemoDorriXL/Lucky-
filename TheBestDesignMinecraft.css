@@ -1,0 +1,129 @@
+body {
+    background-color: rgb(236, 250, 157);
+    margin: 0;
+    width: auto
+}
+
+header {
+    background-color: rgb(163, 255, 240);
+    width:auto
+
+
+}
+
+main {
+    background-color: rgb(161, 255, 161);
+    
+    width:auto
+}
+
+footer {
+    background-color: rgb(133, 182, 228);
+    width:auto
+}
+
+.banner {
+    height: 10vh;
+    background-color: rgb(167, 114, 194);
+    width:all
+}
+
+.top-nav {
+    list-style-type: none;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+.top-nav a {
+    padding: 2vh 4vh;
+    display: block;
+    text-decoration: none;
+    font: bold 1em Verdana;
+    font: 4Verdana;
+}
+
+.top-nav a:hover {
+    background-color: rgb(162, 253, 120)
+}
+
+.page-header {
+    margin: 0vh
+}
+
+.f {
+    margin: 0vh
+}
+.BOW {
+
+
+background-color: rgb(103, 255, 136);
+margin:0vh;
+list-style-type: none;
+text-decoration: none;
+font: bold 1em Verdana;
+font: 4Verdana;
+
+}
+.BN{
+
+
+background-color: rgb(248, 218, 178);
+margin:0vh;
+list-style-type: none;
+text-decoration: none;
+font: bold 1em Verdana;
+font: 4Verdana;
+}
+.BOW a:hover {
+    background-color: rgb(255, 145, 222)
+}
+.BN a:hover {
+    background-color: rgb(255, 145, 145)
+}
+.BE{
+
+
+    background-color: rgb(255, 111, 67);
+    margin:0vh;
+    list-style-type: none;
+    text-decoration: none;
+    font: bold 1em Verdana;
+    font: 4Verdana;
+}
+.BE a:hover {
+    background-color: rgb(255, 244, 91)
+}
+a{
+
+    text-decoration: none;
+    font: bold 1em Verdana;
+    font: 4Verdana;
+}
+h3{
+
+    text-decoration: none;
+    font: bold 1em Verdana;
+    font: 4Verdana;
+}
+.N{
+
+    text-decoration: none;
+    font: bold 1em Verdana;
+    font: 4Verdana;
+
+}
+.E{
+
+    text-decoration: none;
+    font: bold 1em Verdana;
+    font: 4Verdana;
+
+}
+.OW{
+
+    text-decoration: none;
+    font: bold 1em Verdana;
+    font: 4Verdana;
+
+}
